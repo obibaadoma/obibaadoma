@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi! I am Derek Akrasi Konadu, a Full-stack Developer with keen interest in software development. 
-I am currently looking for opportunities as software development requiring JavaScript, Node, Python, Ruby, Sql, HTML, CSS, Rails.
+I am currently looking for opportunities in software development requiring JavaScript, Node, Python, Ruby, Sql, HTML, CSS, Rails.
 
 <div>
   <a href="https://www.linkedin.com/in/derek-akrasi-konadu-187453151/">
@@ -27,7 +27,16 @@ I am currently looking for opportunities as software development requiring JavaS
 
 🏆 Let's create exceptional web experiences together! Feel free to check out my repositories below to see some of my projects. If you have any questions or want to discuss a collaboration, don't hesitate to reach out! 📬
 
+🌟 Featured Projects
+Potfolio Project
+[https://github.com/obibaadoma/potfolio-desktop]
 
+This project uses sample HTML, CSS and JavaScript to show how i can do with the different languages.
+
+Library Management
+[https://github.com/obibaadoma/Awsome_Books_Javascript]
+
+This project uses Javascript to store and keep logs of books and the various authors.
 
 ### 📫 If you prefer reaching out via email, check it out below:
 > [akrasikonadu@yahoo.com](https://www.yahoo.com.com)
