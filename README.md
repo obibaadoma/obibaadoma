@@ -57,7 +57,7 @@ I am currently looking for opportunities as software development requiring JavaS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amare1990&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amare1990&label=Profile%20views&color=blueviolet&style=flat" alt="Derek Akrasi Konadu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amare1990&label=Profile%20views&color=blueviolet&style=flat" alt="Derek Akrasi Konadu." /> </p>
 
 
 
