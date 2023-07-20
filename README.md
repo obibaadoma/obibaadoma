@@ -16,7 +16,6 @@ I am currently looking for opportunities in software development requiring JavaS
 #### 🌱 Computer Engineer graduate.
 #### 👯 I’m looking to collaborate on Software | Full-stack development projects using JavaScript, React, Redux, Python, Rails.
 #### 💬 Ask me about anything you want.
-#### 😄 Pronouns: He / Him
 
 🎨 My toolbox includes HTML, CSS, and JavaScript, which I skillfully combine to breathe life into web designs that not only look great but also function flawlessly. Whether it's building responsive websites from scratch or enhancing existing ones, I love the creative process that comes with it. 💡
 ⚙️ Speaking of optimization, I'm no stranger to Webpack, and I know how to wield its power to streamline workflows and maximize performance. Bundling, minification, and code splitting are just some of the tricks up my sleeve to ensure speedy load times and an efficient development environment. 🚀
@@ -31,14 +30,17 @@ I am currently looking for opportunities in software development requiring JavaS
 Potfolio Project
 [![captone_DaaNkwa](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=captone_DaaNkwa&show_owner=true)](https://github.com/obibaadoma/captone_DaaNkwa)
 
-[https://github.com/obibaadoma/potfolio-desktop]
+[![potfolio-desktop](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=potfolio-desktop&show_owner=true)](https://github.com/obibaadoma/potfolio-desktop
+)
 
 This project uses sample HTML, CSS and JavaScript to show how i can do with the different languages.
 
 Library Management
-[https://github.com/obibaadoma/Awsome_Books_Javascript]
+[https://github.com/obibaadoma/captone_DaaNkwa]
 
-This project uses Javascript to store and keep logs of books and the various authors.
+This project uses HTML, CSS and Javascript. This is my first capstone project after joining microvers.
+It showcases a personal website personally designed by me. This website meets the requirement provided 
+by microverse.
 
 ### 📫 If you prefer reaching out via email, check it out below:
 > [akrasikonadu@yahoo.com](https://www.yahoo.com.com)
@@ -62,13 +64,13 @@ This project uses Javascript to store and keep logs of books and the various aut
 
 
 ### :fire: My Stats :
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amare1990&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/amare1990/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obibaadoma&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/obibaadoma/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amare1990&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amare1990&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=obibaadoma&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obibaadoma&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amare1990&label=Profile%20views&color=blueviolet&style=flat" alt="Derek Akrasi Konadu." /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obibaadoma&label=Profile%20views&color=blueviolet&style=flat" alt="Derek Akrasi Konadu." /> </p>
 
 
 
