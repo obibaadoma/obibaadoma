@@ -3,6 +3,10 @@
 Hi! I am Derek Akrasi Konadu, a Full-stack Developer with keen interest in software development. 
 I am currently looking for opportunities in software development requiring JavaScript, Node, Python, Ruby, Sql, HTML, CSS, Rails.
 
+  [![captone_DaaNkwa](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=captone_DaaNkwa&show_owner=true)](https://github.com/obibaadoma/captone_DaaNkwa)
+
+  [![potfolio-desktop](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=potfolio-desktop&show_owner=true)](https://github.com/obibaadoma/potfolio-desktop)
+ 
 <div>
   <a href="https://www.linkedin.com/in/derek-akrasi-konadu-187453151/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +14,7 @@ I am currently looking for opportunities in software development requiring JavaS
 </div>
 
 #### 🌱 I am a professional in programming languages, HTML, CSS, JavaScript and Python.
-#### 🌱 Strong knowledge in digital systems and design of electronic circuit: 8086 assembly language programming and interfacing, Arduino programming and interfacing.
+#### 🌱 Strong knowledge in digital systems and design of electronic circuit: 8086 assembly language      programming and interfacing, Arduino programming and interfacing.
 #### 🌱 Possesses in-depth knowledge and skills in computer architecture, Operating Systems, and computer networking.
 #### 🌱 I’m currently mastering JavaScript, Node, React, SQL, Python, Ruby on Rails.
 #### 🌱 Computer Engineer graduate.
@@ -28,12 +32,6 @@ I am currently looking for opportunities in software development requiring JavaS
 
 🌟 Featured Projects
 Potfolio Project
-  [![captone_DaaNkwa](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=captone_DaaNkwa&show_owner=true)](https://github.com/obibaadoma/captone_DaaNkwa)
-
-  [![potfolio-desktop](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=potfolio-desktop&show_owner=true)](https://github.com/obibaadoma/potfolio-desktop)
- 
-This project uses sample HTML, CSS and JavaScript to show how i can use with the different languages.
-
 Library Management
 [https://github.com/obibaadoma/captone_DaaNkwa]
 
