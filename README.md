@@ -28,13 +28,11 @@ I am currently looking for opportunities in software development requiring JavaS
 
 🌟 Featured Projects
 Potfolio Project
-[
-  ![captone_DaaNkwa](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=captone_DaaNkwa&show_owner=true)(https://github.com/obibaadoma/captone_DaaNkwa)
+  [![captone_DaaNkwa](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=captone_DaaNkwa&show_owner=true)](https://github.com/obibaadoma/captone_DaaNkwa)
 
- [ ![potfolio-desktop](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=potfolio-desktop&show_owner=true)(https://github.com/obibaadoma/potfolio-desktop
-)
- ]]
-This project uses sample HTML, CSS and JavaScript to show how i can do with the different languages.
+  [![potfolio-desktop](https://github-readme-stats.vercel.app/api/pin/?username=obibaadoma&repo=potfolio-desktop&show_owner=true)](https://github.com/obibaadoma/potfolio-desktop)
+ 
+This project uses sample HTML, CSS and JavaScript to show how i can use with the different languages.
 
 Library Management
 [https://github.com/obibaadoma/captone_DaaNkwa]
