@@ -86,11 +86,6 @@ I am currently looking for opportunities in software development requiring JavaS
 
 ### ☎️ Let's connect! ☎️
 
-[![website](./img/twitter-light.svg)](https://twitter.com/NaughTban#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/NaughTban#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/esteban-palacios-5030a772/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/esteban-palacios-5030a772/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-dark.svg)](https://github.com/obibaadoma/#gh-dark-mode-only)
 [![website](./img/github-light.svg)](https://github.com/obibaadoma/#gh-light-mode-only)
