@@ -42,16 +42,6 @@ I am currently looking for opportunities in software development requiring JavaS
 - 🎨 [Ili Artes - Arts and Crafts][github_iliartes] The capstone project from Module one on Microverse. Focused on reactive design, mobile menu functionality, and navigation, This page is the first step into a real project for a real artisan.
 - 💼 [Full Stack Portfolio - Personal portfolio][github_portfolio] Personal Project where I can display all my new projects and their features. The dynamic population of projects, Reactve design for mobile and desktop
 
-- 👨‍🍳 [Vegan for days: recipes.][github_vegan] MVVM pattern, REST API source and Room database libraries, and AGILE with SCRUM project management
-
-- 🎲 [Lintu: Boardgames and Cafe: catalog.][github_lintu] Clean Architecture with MVVM, REST API source, OAuth 2.0, Jetpack Compose
-
-- ☂️ [Blu: Weather app.][github_blu] REST API, Fragments, RecyclerView, MVVM
-
-- 🎮 [Minesweepper.][github_mine] One of the first complete projects done with JetBrains Academy for Kotlin
-
-- 🤖 [ASCII: name tag generator.][github_ascii] General programming logic and problem-solving.
-
 <br />
 
 ### Languages and Tools:
