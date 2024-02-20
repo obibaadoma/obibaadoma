@@ -35,8 +35,9 @@ Potfolio Project
 Library Management
 [https://github.com/obibaadoma/captone_DaaNkwa]
 
-This website represents a conglomerate of businesses, featuring multiple pages and dedicated sessions for each aspect of their operations. As my inaugural capstone project with Microverse, I developed this platform using HTML, CSS, and JavaScript. Its comprehensive capabilities encompass customer activity tracking, order management, and task assignment to individual employees. 
-The result is a seamless and intuitive user experience, making it a significant achievement in my web development journey.
+This project uses HTML, CSS and Javascript. This is my first capstone project after joining microvers.
+It showcases a personal website personally designed by me. This website meets the requirement provided 
+by microverse.
 
 ### 📫 If you prefer reaching out via email, check it out below:
 > [akrasikonadu@yahoo.com](https://www.yahoo.com.com)
