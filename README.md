@@ -10,7 +10,7 @@ I am an experience software develop with a wide range of skills in Information T
 
 Hi! I am Derek Akrasi Konadu, 
 a Full-stack Developer with keen interest in software development. 
-I am currently looking for opportunities in software development requiring JavaScript, Node, Python, Ruby, Sql, HTML, CSS, Rails.
+I am currently looking for opportunities in software development requiring JavaScript, Node, Ruby, Sql, HTML, CSS, Rails.
 
 🎨 My toolbox includes HTML, CSS, and JavaScript, which I skillfully combine to breathe life into web designs that not only look great but also function flawlessly. Whether it's building responsive websites from scratch or enhancing existing ones, I love the creative process that comes with it. 💡
 
